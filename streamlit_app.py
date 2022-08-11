@@ -7,6 +7,7 @@ Created on Thu Aug 11 10:49:14 2022
 ###streamlit app
 
 import streamlit
+import pandas
 
 streamlit.title('My Parents New Healthy Diner')
 
