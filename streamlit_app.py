@@ -9,3 +9,8 @@ Created on Thu Aug 11 10:49:14 2022
 import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
+
+streamlit.header('Breakfast Menu')
+streamlit.text('Blueberry oatmeal')
+streamlit.text('Kale smoothie')
+streamlit.text('Eggs')
